@@ -5,6 +5,21 @@
 
 ---
 
+## Repository structure
+
+Key files and folders (not exhaustive):
+
+- `DETERMINATIONOFOPTIMUMCORMSIZEFORSAFFRON.pdf`
+- `IRLZ44N.PDF`
+- `IRLZ44NPBF.PDF`
+- `LICENSE`
+- `OptimizingSaffronFloweringandYieldasAffectedbyVernalizationandCormSizeofCrocusSativusL..pdf`
+- `README.md`
+- `Role_of_Biocontrol_Agents_in_Management.pdf`
+- `ScienceDirect_articles_23Jul2026_10-22-13.818.zip`
+- `SouretandWeathers2000safaerophydrop.pdf`
+
+
 ## Maintenance & Audit
 
 - **Audit date:** 10 November 2026
